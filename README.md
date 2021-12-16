@@ -1,0 +1,1 @@
+# s3-policy_access_from_diff_acccount
